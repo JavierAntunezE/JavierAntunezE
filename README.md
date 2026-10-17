@@ -16,6 +16,7 @@ También doy formación freelance en **Test Automation con Selenium**
 ---
 
 **💼 Experiencia**
+- Actualmente en Ryndem
 - Instituto Nacional de Electricidad y Energías Limpias (INEEL)
 
 **🔧 Stack principal**
