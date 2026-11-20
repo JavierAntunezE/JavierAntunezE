@@ -1,6 +1,6 @@
 # 👋 Hola, soy Javier
 
-**Senior Backend Developer** · Ingeniero en Sistemas Computacionales, M.T.I.
+**Senior Backend Developer** · Ingeniero en Sistemas Computacionales, M.T.I.  
 📍 Jiutepec, Morelos, México
 
 Desarrollador backend enfocado en .NET/C#, con experiencia en sistemas empresariales con Entity Framework (EF6 y EF Core), SQL Server e IIS. Integro herramientas de IA en mi flujo de desarrollo para acelerar diseño, revisión de código y documentación. También doy formación en Test Automation con Selenium (C# y Python).
